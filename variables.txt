@@ -1,0 +1,11 @@
+cp: tipo de dolor torácico (1 = angina típica; 2 = angina atípica; 3 = dolor no anginoso; 4 = asintomático) 
+Trestbps: presión arterial en reposo (en mm Hg al ingreso en el hospital) 
+col - colestoral sérico en mg / dl 
+fbs – azúcar en la sangre en ayunas> 120 mg / dl (1 = verdadero; 0 = falso) 
+restecg - resultados electrocardiográficos en reposo (0 = normal; 1 = con ST-T; 2 = hipertrofia) 
+thalach - máximo ritmo cardíaco alcanzado 
+exang - angina inducida por el ejercicio (1 = sí; 0 = no) 
+Oldpeak - ST depresión inducida por el ejercicio en relación con el descanso 
+pendiente - la pendiente del segmento pico del ejercicio ST (1 = pendiente ascendente; 2 = plana; 3 = pendiente descendente) 
+ca - número de vasos principales (0-3) coloreados por fluoroscopia 
+thal - 3 = normal; 6 = defecto fijo; 7 = defec reversible
