@@ -7,4 +7,4 @@ Hasta el momento sólo se han hecho correlaciones para identificar las variables
 Se hizo mapa de calor de estas correlaciones
 
 
-![logo](https://scontent.fbaq1-1.fna.fbcdn.net/v/t1.0-9/57204044_10216921796031635_3376199660250071040_n.jpg?_nc_cat=102&_nc_ht=scontent.fbaq1-1.fna&oh=f86a3745fa62ad410f7c6942139e8cc7&oe=5D4C7D31)
+![logo](https://scontent.fbaq1-1.fna.fbcdn.net/v/t1.0-9/56563253_10216921824592349_1918751423735005184_n.jpg?_nc_cat=109&_nc_ht=scontent.fbaq1-1.fna&oh=abaed60fb798a9010201984906ecdbf3&oe=5D3B0CD4)
